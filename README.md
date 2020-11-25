@@ -1,17 +1,28 @@
-# **Assignment Title**  
+# **Sharing Fairly**  
 
 ## **Assignment Description**  
-
+Create a method called shareFair() that returns true/false if a given float x can be fairly divided by a given float y with no remainder.
 
 ## **Examples**  
->
+>shareFair(8, 2)  
+true
 
-## **Limitations**  
+>shareFair(15, 5)  
+true
+
+>shareFair(7, 2)  
+false
+
+## **Limitations** 
+1 method  
+1 if  
+1 else 
 
 ## **Hints**  
+Use the 5 operator to find the remainder between two numbers.
 
 ## **Concepts**  
-
+Methods, float, boolean, if/else, operators
 
 ---
 
